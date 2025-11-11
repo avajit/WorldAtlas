@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "countryName": "Afghanistan",
+    "capital": "Kabul",
+    "population": 40218234,
+    "interestingFact": "Afghanistan is known for its rugged mountains and being a historic trade route along the Silk Road."
+  },
+  {
+    "id": 2,
+    "countryName": "Albania",
+    "capital": "Tirana",
+    "population": 2877797,
+    "interestingFact": "Albania has over 750,000 concrete bunkers built during the communist era."
+  },
+  {
+    "id": 3,
+    "countryName": "Algeria",
+    "capital": "Algiers",
+    "population": 45606482,
+    "interestingFact": "Algeria is the largest country in Africa by land area."
+  },
+  {
+    "id": 4,
+    "countryName": "Andorra",
+    "capital": "Andorra la Vella",
+    "population": 79824,
+    "interestingFact": "Andorra has no airport or train system; it’s only accessible by road through France or Spain."
+  },
+  {
+    "id": 5,
+    "countryName": "Angola",
+    "capital": "Luanda",
+    "population": 36684202,
+    "interestingFact": "Angola is one of the world’s fastest-growing economies due to its oil and diamond industries."
+  },
+  {
+    "id": 6,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45773896,
+    "interestingFact": "Argentina is the birthplace of tango and home to Patagonia’s stunning landscapes."
+  },
+  {
+    "id": 7,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26681558,
+    "interestingFact": "Australia is the only country that is also a continent."
+  },
+  {
+    "id": 8,
+    "countryName": "Austria",
+    "capital": "Vienna",
+    "population": 9043072,
+    "interestingFact": "Austria is known as the birthplace of famous composer Wolfgang Amadeus Mozart."
+  },
+  {
+    "id": 9,
+    "countryName": "Bangladesh",
+    "capital": "Dhaka",
+    "population": 173562000,
+    "interestingFact": "Bangladesh is home to the world’s largest river delta formed by the Ganges, Brahmaputra, and Meghna rivers."
+  },
+  {
+    "id": 10,
+    "countryName": "Belgium",
+    "capital": "Brussels",
+    "population": 11686157,
+    "interestingFact": "Belgium produces over 1,000 varieties of beer and is known for its chocolates."
+  },
+  {
+    "id": 11,
+    "countryName": "Bhutan",
+    "capital": "Thimphu",
+    "population": 787424,
+    "interestingFact": "Bhutan measures its success using Gross National Happiness instead of GDP."
+  },
+  {
+    "id": 12,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 217240060,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, which produces 20% of the world’s oxygen."
+  },
+  {
+    "id": 13,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 39819000,
+    "interestingFact": "Canada has more lakes than the rest of the world combined."
+  },
+  {
+    "id": 14,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1425671352,
+    "interestingFact": "China’s Great Wall is the longest man-made structure in the world."
+  },
+  {
+    "id": 15,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "icon": "📞",
+    "title": "Call Us",
+    "details": "+91 000000000",
+    "path": "/contact"
+  },
+  {
+    "icon": "📧",
+    "title": "Email",
+    "details": "mandalavijeet12@gmail.com",
+    "path": "/contact"
+  },
+  {
+    "icon": "📍",
+    "title": "Location",
+    "details": "Vadodara, Gujarat, India",
+    "path": "/about"
+  }
+]
