@@ -1,0 +1,5 @@
+# Proxy API calls to REST Countries (avoids CORS in production)
+/rc-api/*  https://api.restcountries.com/:splat  200
+
+# SPA fallback — all routes serve index.html (for React Router)
+/*  /index.html  200
